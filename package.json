@@ -1,7 +1,7 @@
 {
-  "name": "react-native-credit-card-input",
+  "name": "react-native-credit-card-vertical-input",
   "version": "0.4.1",
-  "description": "React native credit card input component",
+  "description": "React native credit card vertical input component",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sbycrosz/react-native-credit-card-input.git"
+    "url": "git+https://github.com/saad-bhutto/react-native-credit-card-vertical-input.git"
   },
   "keywords": [
     "react-native",
@@ -26,12 +26,12 @@
     "react-component",
     "react-native-component"
   ],
-  "author": "sbycrosz",
+  "author": "saad-bhutto",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sbycrosz/react-native-credit-card-input/issues"
+    "url": "https://github.com/saad-bhutto/react-native-credit-card-vertical-input/issues"
   },
-  "homepage": "https://github.com/sbycrosz/react-native-credit-card-input#readme",
+  "homepage": "https://github.com/saad-bhutto/react-native-credit-card-vertical-input#readme",
   "dependencies": {
     "card-validator": "^3.0.0",
     "prop-types": "^15.6.0",
